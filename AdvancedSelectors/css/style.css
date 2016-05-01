@@ -6,17 +6,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 body {
 	background-color: #462700;
 	color: #BE8B4B;
@@ -33,8 +22,14 @@ body {
 h1 {
 	text-align: center;
 }
-
-
+.section3 {
+	font-size: 1.5em;
+}
+.section3 img {
+	display: block;
+	margin: auto;
+	width: 70%;
+}
 
 .section2 img {
 	width: 70%;
