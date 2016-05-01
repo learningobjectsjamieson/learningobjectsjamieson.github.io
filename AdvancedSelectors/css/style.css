@@ -1,0 +1,41 @@
+.section2 p {
+
+	  /*  This selects the paragraph.  
+	 	Code goes here 
+	 See how there is a space after the initial selector??			*/ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+	background-color: #462700;
+	color: #BE8B4B;
+}
+.section1,.section2 {
+	border-radius: 30px;
+	padding: 30px;
+	background-color: #946222;
+	color: #241400;
+	margin: 20px auto;
+	width: 75%;
+	font-size: 1.5em;
+}
+h1 {
+	text-align: center;
+}
+
+
+
+.section2 img {
+	width: 70%;
+}
