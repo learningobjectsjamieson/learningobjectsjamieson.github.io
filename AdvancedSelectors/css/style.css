@@ -1,6 +1,6 @@
 .section2 p {
 
-	  /*  This selects the paragraph.  
+	  /*  This selects only the paragraphs that are child elements of section2.  
 	 	Code goes here 
 	 See how there is a space after the initial selector??			*/ 
 }
